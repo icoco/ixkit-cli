@@ -3,14 +3,13 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	//"github.com/icoco/ixkit-cli/vendors/console"
 	"os"
 
 	//argparse "github.com/akamensky/argparse"
 	argparse "github.com/icoco/ixkit-cli/vendors/akamensky/argparse"
-	//bat "github.com/astaxie/bat"
+
 	bat "github.com/icoco/ixkit-cli/vendors/astaxie/bat"
-	//cli "github.com/icoco/ixkit"
+
 	cli "github.com/icoco/ixkit-cli/core"
 )
 
@@ -479,6 +478,6 @@ Full Example:
 	
 	ixkit load
 
-	💡more help information of ixkit cli,please refer to https://github.com/icoco/ixkit
+	💡more help information of ixkit cli,please refer to https://github.com/icoco/ixkit-cli
 more help information of cURL, please refer to https://github.com/astaxie/bat
 `
