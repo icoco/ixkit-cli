@@ -93,4 +93,4 @@ Full Example:
 	ixkit load
 
 	💡more help information of ixkit cli,please refer to https://github.com/icoco/ixkit-cli
-more help information of cURL, please refer to https://github.com/astaxie/bat
+more help information of cURL, please refer to <a href="https://github.com/astaxie/bat">bat/</a>
