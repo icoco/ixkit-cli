@@ -92,5 +92,6 @@ Full Example:
 	
 	ixkit load
 
-	💡more help information of ixkit ,please refer to <a href="http://www.ixkit.com">ixkit</a>
-more help information of cURL, please refer to <a href="https://github.com/astaxie/bat">bat</a>
+
+💡more help information of ixkit ,please refer to <a href="http://www.ixkit.com">ixkit</a>
+usage of cURL, please refer to <a href="https://github.com/astaxie/bat">bat</a>
